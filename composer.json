@@ -1,0 +1,17 @@
+{
+    "name": "zador/hexlet-tests",
+    "autoload": {
+        "psr-4": {
+            "Zador\\HexletTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zador",
+            "email": "zadorin7zadorin@yandex.ru"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
